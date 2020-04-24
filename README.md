@@ -1,3 +1,9 @@
+*This issue has been resolved*
+
+https://issuetracker.google.com/issues/140447176
+
+--------------------------------------------------------------------
+
 ItemTouchHelper Crash
 ========================
 
